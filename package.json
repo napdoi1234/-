@@ -47,7 +47,7 @@
     "usemin-cli": "^0.5.1"
   },
   "dependencies": {
-    "bootstrap": "^4.4.0",
+    "bootstrap": "^4.4.1",
     "bootstrap-social": "^5.1.1",
     "font-awesome": "^4.7.0",
     "grunt-autoprefixer": "^3.0.4",
